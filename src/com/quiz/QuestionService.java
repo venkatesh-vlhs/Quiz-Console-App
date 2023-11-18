@@ -40,6 +40,7 @@ public class QuestionService {
 		
 		for(String s : useranswer)
 			System.out.print(s+" ");
+		System.out.println();
 	}
 	
 

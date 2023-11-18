@@ -9,6 +9,8 @@ public class Main {
 		System.out.println("***Welcome To Quiz Application***");
 		
 		obj.playQuiz();
+		
+		System.out.println("*****Thank You!*****");
 
 	}
 
